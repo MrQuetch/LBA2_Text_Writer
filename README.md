@@ -8,3 +8,9 @@ Open an HQR file (High Quality Resource) - using Zink's program, and right-click
 My program is different in the fact that you can make an island text file of your own size and use repeating strings. Some islands in the game use more strings than others. If the number of strings for an island is little or more than what it originally is, the game may crash at unexpected moments.
 
 This has only been written, compiled, and tested on Windows 10 with Dev-C++ version 5.11. If you plan to port it to other operating systems in other languages, please do - just be sure to let me know. I don't know much about licensing, but all permission to port is welcome.
+
+Some examples from using the above program:
+
+![](Images/Example_3.bmp)
+![](Images/Example_1.bmp)
+![](Images/Example_2.bmp)
